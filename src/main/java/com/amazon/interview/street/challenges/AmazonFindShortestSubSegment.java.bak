@@ -10,8 +10,7 @@ import java.util.Map;
 import java.util.regex.Pattern;
 
 /**
- * Changing the file to reflect the same on git
- *
+ * 
  * @author Vivek
  */
 public class AmazonFindShortestSubSegment {
